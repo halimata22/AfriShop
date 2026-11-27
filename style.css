@@ -9,3 +9,4 @@ nav a { color: white; text-decoration: none; margin-left: 20px; }
 .carte img { width: 100%; }
 #contact { text-align: center; padding: 30px; }
 footer { background: darkgreen; color: white; text-align: center; padding: 15px; }
+.cartes { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
