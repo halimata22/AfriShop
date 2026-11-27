@@ -3,3 +3,7 @@ h1 { color: darkgreen; }
 header { background: darkgreen; color: white; display: flex; justify-content: space-between; padding: 15px 30px; }
 nav a { color: white; text-decoration: none; margin-left: 20px; }
 #accueil { background: beige; text-align: center; padding: 60px 20px; }
+#produits { padding: 40px 20px; text-align: center; }
+.cartes { display: flex; gap: 20px; justify-content: center; }
+.carte { border: 1px solid #ccc; padding: 15px; width: 250px; }
+.carte img { width: 100%; }
